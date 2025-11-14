@@ -23,16 +23,6 @@ Public health analytics
 
 
 
-**Files**
-
-
-
-
-
-
-
-
-
 **Analysis Includes**
 
 Distribution of systolic BP
